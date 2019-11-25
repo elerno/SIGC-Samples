@@ -1,1 +1,2 @@
 # SIGC-Samples
+This repo contains sample screenshots of SIGC&copy; (Sistema Integral de Gestión Clínica) by Accessalud. SIGC is a platform designed to store electronic health records and perform automated diagnosis. Its web interface allows healthcare professionals to carry out the following tasks: schedule appointments, store and consult medical records, and access a report containing a detailed diagnosis generated from laboratory and cabinet tests.
